@@ -29,3 +29,7 @@ List of somewhat finished notes:
 	+ `print(*[x for x in b if x > 0])`
 	+ itertools
 - [ ] replacing bash with python (plumbum)
+
+💜 *Created by [Oktosha](https://github.com/Oktosha) (up-to-date email & LinkedIn on github profile)* 💜
+</br>
+🖤 *You can also use [my form on Google Forms](https://forms.gle/GCa9ymrYwtTzgiCS8) to contact me* 🖤
